@@ -1,0 +1,30 @@
+{
+  "name": "bird-foo",
+  "version": "1.0.0",
+  "description": "A toy bird to help demo code.",
+  "main": "bird.js",
+  "scripts": {
+    "test": "node bird.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beck/bird-foo.git"
+  },
+  "keywords": [
+    "bird",
+    "test",
+    "foo",
+    "demo",
+    "toy"
+  ],
+  "author": "Doug Beck <doug@douglasbeck.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beck/bird-foo/issues"
+  },
+  "homepage": "https://github.com/beck/bird-foo#readme",
+  "jshintConfig": {
+    "esversion": 6,
+    "node": true
+  }
+}
